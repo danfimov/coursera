@@ -4,5 +4,5 @@
 
 ## Список курсов
 | Название | Курс/специализация| Ссылка | Окончен |
-| ------ | ----- | ----- |
-| Машинное обучение и анализ данных | Специализация | [Ссылка](https://www.coursera.org/specializations/machine-learning-data-analysis?skipBrowseRedirect=true) |
+| --- | --- | --- | --- |
+| Машинное обучение и анализ данных | Специализация | [Ссылка](https://www.coursera.org/specializations/machine-learning-data-analysis?skipBrowseRedirect=true) | Нет |
