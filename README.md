@@ -5,4 +5,5 @@
 ## Список курсов
 | Название | Курс/специализация| Ссылка | Окончен |
 | --- | --- | --- | --- |
-| Машинное обучение и анализ данных | Специализация | [Ссылка](https://www.coursera.org/specializations/machine-learning-data-analysis?skipBrowseRedirect=true) | Нет |
+| Машинное обучение и анализ данных | Специализация | [Ссылка](coursera.org/specializations/machine-learning-data-analysis?skipBrowseRedirect=true) | Нет |
+| Kotlin for Java Developers | Курс | [Ссылка](https://www.coursera.org/learn/kotlin-for-java-developers) | Нет |
